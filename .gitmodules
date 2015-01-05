@@ -1,0 +1,3 @@
+[submodule "lss"]
+	path = src/third_party/lss
+	url = https://github.com/maolin-cdzl/lss.git
